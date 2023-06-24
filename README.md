@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: BackEnd WebDevelopment,DSA
-- 💬 Ask me about: HTML,CSS,Javascript,C++
+- 💬 Ask me about: HTML,CSS,Javascript,React,C++
 - 😄 Reach me at srijita.sampa@gmail.com
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrijitaSaha2003&show_icons=true&locale=en&layout=compact" alt="SrijitaSaha2003" /></p>
