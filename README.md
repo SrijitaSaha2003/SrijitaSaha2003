@@ -17,6 +17,10 @@
 <a href="www.linkedin.com/in/srijita-saha-76710a227" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="SrijitaSaha" height="30" width="33" /></a>
 <a href="https://github.com/SrijitaSaha2003" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="SrijitaSaha2003" height="30" width="30" /></a>
 </p>
+
+<h3 align="left">Here are my Total Contributions:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrijitaSaha2003&theme=radical" alt="srijitasaha2003" /></p>
+
 <!--
 **SrijitaSaha2003/SrijitaSaha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
