@@ -10,7 +10,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrijitaSaha2003&show_icons=true&locale=en&layout=compact" alt="SrijitaSaha2003" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100076926168055" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
 <a href="https://www.instagram.com/sriji_ta18/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30" /></a>
