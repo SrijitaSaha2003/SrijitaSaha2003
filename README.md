@@ -7,7 +7,8 @@
 - 💬 Ask me about: HTML,CSS,Javascript,React,C++
 - 😄 Reach me at srijita.sampa@gmail.com
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrijitaSaha2003&show_icons=true&locale=en&layout=compact" alt="SrijitaSaha2003" /></p>
+<h3 align="left">My Most Used Languages:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijitaSaha2003&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="SrijitaSaha2003" /></p>
 
 
 <h3 align="left">Connect with me:</h3> 
@@ -19,7 +20,7 @@
 </p>
 
 <h3 align="left">Here are my Total Contributions:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrijitaSaha2003&theme=radical" alt="srijitasaha2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrijitaSaha2003&theme=radical" alt="SrijitaSaha2003" /></p>
 
 <!--
 **SrijitaSaha2003/SrijitaSaha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
