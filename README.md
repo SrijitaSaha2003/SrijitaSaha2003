@@ -1,9 +1,8 @@
 # Hi there 👋 I am Srijita.....
-###A Passionate Learner/FrontEnd Developer
+###A Passionate Learner
 
 
 
-- 🌱 I’m currently learning: DSA
 - 💬 Ask me about: HTML,CSS,Javascript,React,C++
 - 😄 Reach me at srijita.sampa@gmail.com
 
